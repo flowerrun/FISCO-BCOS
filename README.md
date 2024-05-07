@@ -59,7 +59,7 @@ FISCO BCOS系统架构包括基础层、核心层、服务层、用户层和接�
 
 ## 落地应用案例
 
-以数助实，链通产业协作，FISCO BCOS已落地300+产业数字化标杆应用，场景覆盖文化版权、司法服务、政务服务、物联网、金融、智慧社区、房产建筑、社区治理、乡村振兴等领域，如：
+以数助实，链通产业协作，FISCO BCOS已落地400+产业数字化标杆应用，场景覆盖文化版权、司法服务、政务服务、物联网、金融、智慧社区、房产建筑、社区治理、乡村振兴等领域，如：
 
 - 金融业：机构间对账、供应链金融、旅游金融等。
 - 司法存证：仲裁链、电子借据、司法存证平台等。
@@ -68,19 +68,19 @@ FISCO BCOS系统架构包括基础层、核心层、服务层、用户层和接�
 - 乡村振兴：智慧农业养殖大数据云平台、数字化平台建设等。
 - 智慧政务：城市大脑、公积金区块链平台、证书电子化项目等
 
-FISCO BCOS已在领域创建了诸多标杆应用示范，涵盖16类场景的169个典型应用案例，产业应用具体信息可参考[《2022 FISCO BCOS产业白皮书》](https://mp.weixin.qq.com/s/hERIQbnkd_-uAMVRx7Q6WQ)。
+FISCO BCOS已在领域创建了诸多标杆应用示范，涵盖19类场景的252个典型应用案例，产业应用具体信息可参考[《2022 FISCO BCOS产业白皮书》](https://mp.weixin.qq.com/s/hERIQbnkd_-uAMVRx7Q6WQ)。
 
 
 ## 加入我们的社区
 
-**FISCO BCOS开源社区**是国内庞大且活跃的开源社区，开源以来，围绕FISCO BCOS所构建的开源社区已汇集超4000家企业及机构、9万余名个人成员共建共治共享，成功支持政务、金融、农业、公益、文娱、供应链、物联网等重点应用领域的数百个区块链应用场景落地，收集到的标杆应用超过300个，构建出庞大且活跃的开源联盟链生态圈。
+**FISCO BCOS开源社区**是国内庞大且活跃的开源社区，开源以来，围绕FISCO BCOS所构建的开源社区已汇集超5000家企业及机构、10万余名个人成员共建共治共享，成功支持政务、金融、农业、公益、文娱、供应链、物联网等重点应用领域的数百个区块链应用场景落地，收集到的标杆应用超过400个，构建出庞大且活跃的开源联盟链生态圈。
 
 如您对FISCO BCOS开源技术及应用感兴趣，欢迎加入社区获得更多支持与帮助。
-- [2022年度MVP](https://fisco-bcos-doc.readthedocs.io/zh_CN/latest/docs/community/MVP_list_new.html)
-- [2022年度贡献者](https://fisco-bcos-doc.readthedocs.io/zh_CN/latest/docs/community/contributor_list_new.html)
-- [2022新增合作伙伴](https://mp.weixin.qq.com/s/ES8ZpkfywKELv0DZZrG6eQ)
-- [2022 FISCO BCOS产业应用白皮书](https://mp.weixin.qq.com/s/hERIQbnkd_-uAMVRx7Q6WQ)
-- [社区历史文章资源](https://fisco-bcos-doc.readthedocs.io/zh_CN/latest/docs/articles/index.html)
+- [2023年度MVP](https://fisco-bcos-doc.readthedocs.io/zh_CN/latest/docs/community/MVP_list_new.html)
+- [2023年度贡献者](https://fisco-bcos-doc.readthedocs.io/zh_CN/latest/docs/community/contributor_list_new.html)
+- [2023新增合作伙伴](https://mp.weixin.qq.com/s/A-gH2SJNQPDLgnhSGyuYDg)
+- [2023 FISCO BCOS产业应用发展报告](https://mp.weixin.qq.com/s/hyEdSluUSG-iUZDR2PO_Ew)
+- [社区历史文章资源](https://mp.weixin.qq.com/s/vXNIXWmzDZjA6QNJoQl_2g)
 
 
 ![](https://raw.githubusercontent.com/FISCO-BCOS/LargeFiles/master/images/QR_image.png)
